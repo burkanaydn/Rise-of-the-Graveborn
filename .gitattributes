@@ -1,0 +1,11 @@
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.hlsl linguist-vendored
+*.glsl linguist-vendored
+*.compute linguist-vendored
+
+
+*.mat linguist-vendored
+*.meta linguist-vendored
+*.prefab linguist-vendored
+*.unity linguist-vendored
