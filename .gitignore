@@ -1,0 +1,39 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+!/[Aa]ssets/**/*.meta
+.vs/
+*.csproj
+*.sln
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+/[Aa]ssets/PolygonDungeonRealms/
+/[Aa]ssets/PolygonFantasyCharacters/
+/[Aa]ssets/PolygonFantasyRivals/
+/[Aa]ssets/PolygonIcons/
+/[Aa]ssets/PolygonParticleFX/
+/[Aa]ssets/PolygonPirates/
+/[Aa]ssets/PolygonSciFiSpace/
+
+/[Aa]ssets/Casual Game Sounds U6/
+/[Aa]ssets/Shapeforms Audio Free Sound Effects/
+/[Aa]ssets/NPC or Player/
+
+# Paket kurulum dosyalari
+*.unitypackage
+*.zip
+*.rar
+*.7z
